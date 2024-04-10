@@ -47,21 +47,26 @@ body{.poppins-regular {
     padding: 24px 0;
 }
 .estudante-imagem{
+
     width: 120px;
 }
 .estudante-icone{
     width: 24px;
+
 }
 .estudante-div{ 
     text-align: center;
+    background-color: #f1cb9f;
 }
 .estudante-titulo{
     text-align: center;
     padding: 50px 0;
+    background-color: #f1cb9f;
 }
 .estudante-todos{   
     display: grid;
     grid-template-columns:20% 20% 20% 20% 20%;
+    background-color: #f1cb9f;
 }
 
 .rodape{
